@@ -158,6 +158,7 @@
 
 \newcommand{\fimFAESATeX}[1]{
     \vspace*{\fill}
+    \thispagestyle{empty}
     \begin{center}
         #1\\
         \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{./imagens/FAESATeX_com_logo.png}
